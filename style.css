@@ -1,0 +1,41 @@
+
+.block1 {
+	height: 100px;
+	width: 1440px;
+	background-color: #FFF0DD;
+}
+.block2 {
+	padding-top: 27px;
+	padding-left: 28.5px;
+	justify-content: center;
+	align-items: center ;
+
+
+}
+.block3 {
+	width: 1440px;
+	height: 680px;
+	background-image: url(image1.jpg);
+
+}
+.block4 {
+	position: absolute;
+	left: 744px;
+	top: 125px;
+	font-size: 64px;
+}
+.block5 {
+	position: absolute;
+	left: 804px;
+	top: 317px;
+}
+.block6 {
+	position: absolute;
+	left: 804px;
+	top: 361px;
+}
+.button {
+	position: absolute;
+	left: 897px;
+	top: 469px;
+}
